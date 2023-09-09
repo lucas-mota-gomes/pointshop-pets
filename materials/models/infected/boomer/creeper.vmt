@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/infected/boomer/creeper"
+	"$alphatest" 1
+}

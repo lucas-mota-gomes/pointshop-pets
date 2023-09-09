@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$baseTexture "models\infected\boomer/SplinksWasHere"
+	"$nocull" 1
+	"$alphatest" 1
+}

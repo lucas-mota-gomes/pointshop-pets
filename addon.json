@@ -1,0 +1,13 @@
+{
+    "title": "Pointshop PetFollowers",
+    "type": "ServerContent",
+    "tags": [
+        "scenic",
+        "fun"
+    ],
+    "ignore": [
+        "*.psd",
+        "*.vcproj",
+        "*.svn*"
+    ]
+}
